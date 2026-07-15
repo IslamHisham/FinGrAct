@@ -1,6 +1,6 @@
 # Project: FinGrAct
 
-### Jupyter Notebooks in `second_paper_insha_allah/`
+### Jupyter Notebooks
 - **`Dataset_augmentation.ipynb`**: Contains methods and scripts for augmenting existing datasets to increase their size and diversity. Useful for improving model generalization.
 - **`FinGrAct.ipynb`**: Core notebook for Financial Graph Analysis (FinGrAct), focusing on the main algorithms and methodologies for analyzing financial networks.
 - **`FinGrAct_with_links.ipynb`**: Notebook related to Financial Graph Analysis (FinGrAct), possibly including link analysis for financial data. Focuses on network structures in finance.
@@ -17,7 +17,7 @@
 - **`inter_agreement_annotators.ipynb`**: Calculates and analyzes inter-annotator agreement for human-labeled data. Important for assessing the reliability of annotations.
 - **`url_processing.ipynb`**: Handles the processing and extraction of information from URLs. This includes parsing, validation, and content retrieval from web links.
 
-### Other Files in `second_paper_insha_allah/`
+### Other Files`
 - **`Copy of gpt_4_response.txt`**: Plain text file, could be response logs or raw text data.
 - **`Dataset_creation.gdraw`**: Google Drawings file, for diagrams or flowcharts.
 - **`README.md`**: Miscellaneous file.
