@@ -1,0 +1,9 @@
+*.gsheet
+*.gdraw
+*.gdoc
+FinEsure/
+geval/
+missing_counter_evidence/
+prometheus/
+data/summarization.tsv
+data annotation instructions.pptx
