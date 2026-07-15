@@ -1,34 +1,4 @@
-# Project: second_paper_insha_allah
-
-This repository contains work related to the 'second_paper_insha_allah' project. Below is an overview of the folder structure and its key components.
-
-## Folder Structure: second_paper_insha_allah
-
-```
-./
-│   ├── Copy of gpt_4_response.txt
-│   ├── Dataset_augmentation.ipynb
-│   ├── Dataset_creation.gdraw
-│   ├── FinGrAct.ipynb
-│   ├── FinGrAct_with_links.ipynb
-│   ├── README.md
-│   ├── Untitled0.ipynb
-│   ├── annotators instructions.gdoc
-│   ├── average_score.ipynb
-│   ├── bias_study.ipynb
-│   ├── correlation_measurements.ipynb
-│   ├── data annotation instructions.pptx
-│   ├── data.json
-│   ├── data_sampling.ipynb
-│   ├── geval_batch_api_with_links.ipynb
-│   ├── gpt-4_eval.ipynb
-│   ├── gpt-4_eval_batch_api.ipynb
-│   ├── gpt-4_gen_batch_api.ipynb
-│   ├── gpt-4_links_gen.ipynb
-│   ├── gpt_4_response.txt
-│   ├── inter_agreement_annotators.ipynb
-│   ├── url_processing.ipynb
-```
+# Project: FinGrAct
 
 ### Jupyter Notebooks in `second_paper_insha_allah/`
 - **`Dataset_augmentation.ipynb`**: Contains methods and scripts for augmenting existing datasets to increase their size and diversity. Useful for improving model generalization.
